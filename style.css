@@ -1,5 +1,13 @@
+
 *{
     margin: 0;
     font-family: Arial;
     border: border-box;
 }
+
+
+git remote add origin https://github.com/Feryhajariwala/Feryhajariwala.git
+
+git remote add origin https://github.com/Feryhajariwala/demo.git
+
+git config --global user.email "you@example.com"
